@@ -1,0 +1,17 @@
+# Core libs
+pandas
+requests
+python-dotenv
+
+# MySQL connector (Airflow ke hook ke liye zaroori)
+apache-airflow-providers-mysql
+
+# Agar common operators/sensors ka use ho raha hai
+apache-airflow-providers-common-sql
+apache-airflow-providers-ftp
+apache-airflow-providers-http
+
+# Google Sheets / GCP
+google-auth
+google-auth-oauthlib
+google-api-python-client
