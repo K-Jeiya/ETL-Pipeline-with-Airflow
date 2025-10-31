@@ -40,10 +40,6 @@ The pipeline fetches consumer complaints data from the **Consumer Financial Prot
 
 ---
 
-## 📹 Demo
-The full working demo is recorded and available on **Loom**.  
-(Link provided in submission)
-
 ---
 
 ### 👩‍💻 Author
