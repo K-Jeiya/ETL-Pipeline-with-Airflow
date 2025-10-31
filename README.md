@@ -36,9 +36,7 @@ The pipeline fetches consumer complaints data from the **Consumer Financial Prot
 - Data in MySQL `Consumer_Complaints` table  
 - Data available in Google Sheets  
 - Airflow DAG Graph + Grid view screenshots  
-- Email notification proof  
-
----
+- Email notification proof
 
 ---
 
